@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @iamabhi2op
-- 👀 I’m interested in coding and web development
+- 👋 Hi, I’m Abhishek Sonawane
+- 📌 SDE Based in MH, India.
+- 👀 I’m interested in coding and web development.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me 
