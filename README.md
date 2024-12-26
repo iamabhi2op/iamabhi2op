@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://iamabhi2op.github.io/github-portfolio/assets/myresume.pdf](https://iamabhi2op.github.io/github-portfolio/assets/myresume.pdf)
 
-- ⚡ Fun fact **I think**
+- ⚡ Fun fact **I think i am good at logics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
